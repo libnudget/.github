@@ -1,13 +1,16 @@
+[![libnudget banner](https://raw.githubusercontent.com/libnudget/.github/main/profile/banner-libnudget.png)](https://github.com/libnudget/.github)
+
 # libnudget
 
-Tiny libraries, snippets, and reusable modules.
+`libnudget` is a public collection of reusable libraries, packages, and developer tooling.
 
 ## What is here
 
-- Small focused libraries
-- Utility modules and helpers
-- Ports and bindings
-- Reference implementations
+- Libraries published as reusable building blocks
+- Packages for multiple languages and platforms
+- Shared utilities and developer tooling
+- Reference implementations and examples
+- Supporting modules used across projects
 
 ## Links
 
