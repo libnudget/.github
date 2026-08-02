@@ -2,14 +2,14 @@
 
 # libnudget
 
-Small GitHub Actions and automation tools for repository maintenance, CI/CD, and release engineering.
+libnudget builds small, focused GitHub Actions and automation tools for repository maintenance, CI/CD, and release engineering.
 
 ## What you'll find
 
 - GitHub Actions
 - Repository automation
-- Release engineering
 - CI/CD workflows
+- Release engineering
 - Maintenance tooling
 
 ## Featured projects
@@ -25,4 +25,4 @@ Small GitHub Actions and automation tools for repository maintenance, CI/CD, and
 
 ## Philosophy
 
-Each project is designed to solve one problem well. Together they help reduce manual work, improve repository consistency, and simplify software delivery.
+Each project is designed to solve one problem well. Together they help automate repetitive work, keep repositories consistent, and simplify software delivery.
