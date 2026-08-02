@@ -2,16 +2,27 @@
 
 # libnudget
 
-`libnudget` is a public collection of reusable libraries, packages, and developer tooling.
+Small GitHub Actions and automation tools for repository maintenance, CI/CD, and release engineering.
 
-## What is here
+## What you'll find
 
-- Libraries published as reusable building blocks
-- Packages for multiple languages and platforms
-- Shared utilities and developer tooling
-- Reference implementations and examples
-- Supporting modules used across projects
+- GitHub Actions
+- Repository automation
+- Release engineering
+- CI/CD workflows
+- Maintenance tooling
 
-## Links
+## Featured projects
 
-[source](https://github.com/libnudget/.github)
+- auto-merge
+- auto-label
+- release
+- release-assets
+- cancel
+- bump
+- stale
+- rust-nightly
+
+## Philosophy
+
+Each project is designed to solve one problem well. Together they help reduce manual work, improve repository consistency, and simplify software delivery.
