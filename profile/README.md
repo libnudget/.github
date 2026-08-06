@@ -25,16 +25,14 @@ still finding their shape.
 - nightly, rust-nightly, release-assets, activity, gon, bot: reusable
   workflows and a bit of quiet machinery.
 
-Every project is open source. The newest ones ship at v0.1.0; the older
-ones have been at work for a while. The full list lives on
-[libnudget.github.io](https://libnudget.github.io).
+Every project is open source. The full list, with current releases, lives
+on [libnudget.github.io](https://libnudget.github.io).
 
 ## Who we are
 
-libnudget is a company of [Palmshed](https://github.com/palmshed).
-
-Palmshed builds the open-source AI tools, agents, and SDKs. Palmshed
-builds the big, ambitious things. libnudget keeps the small ones neat.
+libnudget is a company of [Palmshed](https://github.com/palmshed), which
+builds open-source AI tools, agents, and SDKs. Palmshed builds the big,
+ambitious things. libnudget keeps the small ones neat.
 The same quiet way of working runs through both: build carefully, ship
 honestly, stay easy to leave behind.
 
