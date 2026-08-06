@@ -2,41 +2,48 @@
 
 # libnudget
 
-Small developer tools.
+We make small tools that solve one problem well.
 
-We build small tools — utilities, GitHub Actions, libraries, and
-templates for everyday development. Each one is meant to solve a single
-problem, stay small enough to read and reason about, and work quietly
-whether you use it alone or together with the others.
+Most projects start by promising a lot. We started the other way around —
+from the small things. A clipboard utility. A tagger. A nightly build.
+Nothing that needs a bow on it, only work that can be trusted to hold.
 
-The tools don't need to shout. They earn their place by being honest,
-useful, and easy to follow. That is the whole idea, and it had better be
-the whole point.
+There is a strand running through all of it: keep the tool small enough to
+read, honest enough to keep, and easy enough to replace. Not because small
+is pretty. Because small is what lasts.
 
-You can find everything — the full collection, one click at a time — on
-the website: [libnudget.github.io](https://libnudget.github.io).
+## The collection
 
-## The projects
+Some are developer tools you run on your own machine. Others are GitHub
+Actions that quietly look after a repository overnight. A few are
+still finding their shape.
 
-We keep a lot of small things, so here is the shape of it.
+- clipb, craft, mini, startkit, dotenv-keep — small tools and starters.
+- release, bump, gh-tag, release-notes, fmtcheck, rust-fix, auto-merge,
+  auto-label, title, cancel, lock, prune, stale, echo — the automations
+  that keep a repository honest while no one is watching.
+- nightly, rust-nightly, release-assets, activity, gon, bot — reuse
+  workflows and a bit of quiet machinery.
 
-**Small developer tools** — clipb, a lightweight clipboard utility;
-craft, an experimental Rust tool; mini, a tiny HTTP client; startkit, a
-library template; dotenv-keep, for keeping `.env` files honest.
+Every project is open source. The newest ones ship at v0.1.0; the older
+ones have been at work for a while. The full list lives on
+[libnudget.github.io](https://libnudget.github.io).
 
-**GitHub Actions** — release, bump, gh-tag, release-notes, fmtcheck,
-rust-fix, auto-merge, auto-label, title, cancel, lock, prune, stale, and
-echo — the quiet automations that keep a repository honest.
+## Who we are
 
-**Workflows and nightlies** — nightly Flutter and Rust builds, signed
-release assets, Dependabot reviews, and activity tracking.
+libnudget is a company of [Palmshed](https://github.com/palmshed) — the
+org behind open-source AI tools, agents, and SDKs.
 
-## How we build
+> Palmshed builds the big, ambitious things. libnudget keeps the small
+> ones neat. The same quiet way of working runs through both: build
+> carefully, ship honestly, stay easy to leave behind.
 
-We would rather build one thing really well than many things halfway. The
-work should speak plainly, match what it says on the tin, and be easy to
-replace. Whether a project is a first sketch or here to stay, we give it
-the same care.
+## Small is how we say what we mean
 
-If one of the projects helps you, or breaks for you, we would like to
-hear about it. Fair and willing to be corrected is how this stays useful.
+We would rather build one thing really well than fifty things halfway.
+The work should match what the README promises, be plain to follow, and
+never trap you in. Whether a project is a first sketch or here to stay,
+it gets the same care.
+
+And if one puzzles you, or breaks on you — tell us. We stay useful only
+by staying willing to be corrected.
