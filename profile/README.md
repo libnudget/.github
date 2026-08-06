@@ -1,28 +1,24 @@
-[![libnudget banner](https://raw.githubusercontent.com/libnudget/.github/main/profile/banner-libnudget.png)](https://github.com/libnudget/.github)
-
 # libnudget
 
-libnudget builds small, focused GitHub Actions and automation tools for repository maintenance, CI/CD, and release engineering.
+Small developer tools.
 
-## What you'll find
+Open source utilities, GitHub Actions, libraries, and templates for
+everyday development.
 
-- GitHub Actions
-- Repository automation
-- CI/CD workflows
-- Release engineering
-- Maintenance tooling
+[libnudget.github.io](https://libnudget.github.io)
 
-## Featured projects
+## Projects
 
-- auto-merge
-- auto-label
-- release
-- release-assets
-- cancel
-- bump
-- stale
-- rust-nightly
+- [clipb](https://github.com/libnudget/clipb) — a lightweight clipboard utility for developers.
+- [release-notes](https://github.com/libnudget/release-notes) — GitHub Action for generating release notes.
+- [fmtcheck](https://github.com/libnudget/fmtcheck) — GitHub Action for formatting checks.
+- [mini](https://github.com/libnudget/mini) — a minimal Go utility library.
+- [startkit](https://github.com/libnudget/startkit) — minimal project template for new libraries.
+- [craft](https://github.com/libnudget/craft) — experimental Rust developer tool.
+- [dotenv-keep](https://github.com/libnudget/dotenv-keep) — keep and manage `.env` files safely.
+- [gh-tag](https://github.com/libnudget/gh-tag) — GitHub Action for automated version tagging.
 
 ## Philosophy
 
-Each project is designed to solve one problem well. Together they help automate repetitive work, keep repositories consistent, and simplify software delivery.
+Each project solves one problem well. They are small enough to read,
+reason about, and replace, and they work well on their own and together.
