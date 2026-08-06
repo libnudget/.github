@@ -4,7 +4,7 @@
 
 **🛠️ small tools that do one thing well 🧰**  
 🔗 pin one · 🔍 read one · 🚀 run one · ⏳ leave one behind  
-_quiet software, built to last_
+_quiet software, built to last_ · [libnudget.github.io](https://libnudget.github.io)
 
 </div>
 
