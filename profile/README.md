@@ -41,7 +41,7 @@ still finding their shape.
 
 ### The rest
 
-- release, bump, gh-tag, release-notes, fmtcheck, rust-fix, auto-merge,
+- release, bump, rust-fix, auto-merge,
   auto-label, title, cancel, lock, prune, stale, echo: the automations
   that keep a repository honest while no one is watching.
 - nightly, rust-nightly, release-assets, activity, gon, bot: reusable
