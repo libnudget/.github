@@ -18,7 +18,21 @@ Some are developer tools you run on your own machine. Others are GitHub
 Actions that quietly look after a repository overnight. A few are
 still finding their shape.
 
-- clipb, craft, mini, startkit, dotenv-keep: small tools and starters.
+### Released
+
+| Tool | Latest | Use it |
+| --- | --- | --- |
+| [clipb](https://github.com/libnudget/clipb) | [![clipb](https://img.shields.io/github/v/release/libnudget/clipb?label=latest)](https://github.com/libnudget/clipb/releases) | `cargo install --git https://github.com/libnudget/clipb` |
+| [craft](https://github.com/libnudget/craft) | [![craft](https://img.shields.io/github/v/release/libnudget/craft?label=latest)](https://github.com/libnudget/craft/releases) | `cargo install --git https://github.com/libnudget/craft` |
+| [mini](https://github.com/libnudget/mini) | [![mini](https://img.shields.io/github/v/release/libnudget/mini?label=latest)](https://github.com/libnudget/mini/releases) | `go get github.com/libnudget/mini@latest` |
+| [startkit](https://github.com/libnudget/startkit) | [![startkit](https://img.shields.io/github/v/release/libnudget/startkit?label=latest)](https://github.com/libnudget/startkit/releases) | `npx --yes github:libnudget/startkit mylib` |
+| [dotenv-keep](https://github.com/libnudget/dotenv-keep) | [![dotenv-keep](https://img.shields.io/github/v/release/libnudget/dotenv-keep?label=latest)](https://github.com/libnudget/dotenv-keep/releases) | `pip install git+https://github.com/libnudget/dotenv-keep` |
+| [release-notes](https://github.com/libnudget/release-notes) | [![release-notes](https://img.shields.io/github/v/release/libnudget/release-notes?label=latest)](https://github.com/libnudget/release-notes/releases) | `uses: libnudget/release-notes@main` |
+| [gh-tag](https://github.com/libnudget/gh-tag) | [![gh-tag](https://img.shields.io/github/v/release/libnudget/gh-tag?label=latest)](https://github.com/libnudget/gh-tag/releases) | `uses: libnudget/gh-tag@main` |
+| [fmtcheck](https://github.com/libnudget/fmtcheck) | [![fmtcheck](https://img.shields.io/github/v/release/libnudget/fmtcheck?label=latest)](https://github.com/libnudget/fmtcheck/releases) | `uses: libnudget/fmtcheck@main` |
+
+### The rest
+
 - release, bump, gh-tag, release-notes, fmtcheck, rust-fix, auto-merge,
   auto-label, title, cancel, lock, prune, stale, echo: the automations
   that keep a repository honest while no one is watching.
