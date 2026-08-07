@@ -1,4 +1,4 @@
-![libnudget](banner-libnudget.png)
+![libnudget](https://raw.githubusercontent.com/libnudget/.github/main/profile/banner-libnudget.png)
 
 <div align="center">
 
