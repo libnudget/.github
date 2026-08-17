@@ -1,5 +1,3 @@
-![libnudget](https://raw.githubusercontent.com/libnudget/.github/main/profile/banner-libnudget.png)
-
 <div align="center">
 
 **🛠️ small tools that do one thing well 🧰**  
