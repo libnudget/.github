@@ -1,42 +1,44 @@
 <div align="center">
 
 **🛠️ small tools that do one thing well 🧰**
-🔗 pin one · 🔍 read one · 🚀 run one · ⏳ leave one behind
-*quiet software, built to last* · [libnudget.github.io](https://libnudget.github.io)
+`pin one` · `read one` · `run one` · `leave one behind`
+
+*quiet software, built to last*
+
+[libnudget.github.io](https://libnudget.github.io)
 
 </div>
 
 # libnudget
-
-Small, open-source tools for everyday development.
 
 ```mermaid
 classDiagram
     direction TB
 
     class Palmshed {
-        Open-source AI tools
+        AI tools
         Agents
         SDKs
     }
 
     class harpertoken {
-        Open-source software
+        Software
     }
 
     class libnudget {
-        Small tools
         Utilities
         GitHub Actions
         Libraries
         Templates
     }
 
-    Palmshed --> libnudget : company
-    harpertoken --> libnudget : alongside
+    Palmshed --> libnudget
+    harpertoken --> libnudget
 ```
 
-## The collection
+[Palmshed](https://github.com/palmshed) · [harpertoken](https://github.com/harpertoken) · [libnudget](https://github.com/libnudget)
+
+## Projects
 
 ### Released
 
