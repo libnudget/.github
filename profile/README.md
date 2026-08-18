@@ -33,7 +33,7 @@ The idea is simple: keep the tool small enough to read, useful enough to keep, a
 | [gon](https://github.com/libnudget/gon)                       | [![gon](https://img.shields.io/github/v/release/libnudget/gon?label=latest)](https://github.com/libnudget/gon/releases)                                  | `uses: libnudget/gon/.github/workflows/gon.yml@main`                       |
 | [nightly](https://github.com/libnudget/nightly)               | [![nightly](https://img.shields.io/github/v/release/libnudget/nightly?label=latest)](https://github.com/libnudget/nightly/releases)                      | `uses: libnudget/nightly/.github/workflows/nightly.yml@main`               |
 | [release-assets](https://github.com/libnudget/release-assets) | [![release-assets](https://img.shields.io/github/v/release/libnudget/release-assets?label=latest)](https://github.com/libnudget/release-assets/releases) | `uses: libnudget/release-assets/.github/workflows/release-assets.yml@main` |
-| [rust-nightly](https://github.com/libnudget/rust-nightly)     | [![rust-nightly](https://img.shields.io/github/v/release/libnudget/rust-nightly?label=latest)](https://github.com/libnudget/rust-nightly/releases)       | `uses: libnudget/rust-nightly@main`                                        |
+| [rust-nightly](https://github.com/libnudget/rust-nightly)     | [![rust-nightly](https://img.shields.io/github/v/release/libnudget/rust-nightly?label=latest)](https://github.com/libnudget/rust-nightly/releases)       | `uses: libnudget/rust-nightly/.github/workflows/nightly.yml@main`          |
 | [activity](https://github.com/libnudget/activity)             | [![activity](https://img.shields.io/github/v/release/libnudget/activity?label=latest)](https://github.com/libnudget/activity/releases)                   | `uses: libnudget/activity/.github/workflows/tracking.yml@main`             |
 | [release](https://github.com/libnudget/release)               | [![release](https://img.shields.io/github/v/release/libnudget/release?label=latest)](https://github.com/libnudget/release/releases)                      | `uses: libnudget/release@v1.0.0`                                           |
 | [auto-label](https://github.com/libnudget/auto-label)         | [![auto-label](https://img.shields.io/github/v/release/libnudget/auto-label?label=latest)](https://github.com/libnudget/auto-label/releases)             | `uses: libnudget/auto-label@v2`                                            |
@@ -48,8 +48,8 @@ The idea is simple: keep the tool small enough to read, useful enough to keep, a
 
 ## Who we are
 
-libnudget is a company of [Palmshed](https://github.com/palmshed), which builds open-source AI tools, agents, and SDKs.
+libnudget is a company of [Palmshed](https://github.com/palmshed), alongside [harpertoken](https://github.com/harpertoken).
 
-Palmshed builds the larger systems. libnudget focuses on the smaller ones.
+We build small, focused software that is useful on its own and easy to understand.
 
-If something breaks or feels unclear, tell us. Good tools should be easy to understand, easy to use, and easy to correct.
+If something breaks or feels unclear, tell us. Good tools should be easy to use and easy to correct.
