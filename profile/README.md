@@ -1,15 +1,12 @@
 <div align="center">
 
-**🛠️ small tools that do one thing well 🧰**
-`pin one` · `read one` · `run one` · `leave one behind`
+# libnudget
 
-*quiet software, built to last*
+**small tools, plainly made**
 
 [libnudget.github.io](https://libnudget.github.io)
 
 </div>
-
-# libnudget
 
 ```mermaid
 classDiagram
@@ -27,7 +24,7 @@ classDiagram
 
     class libnudget {
         Utilities
-        GitHub Actions
+        Actions
         Libraries
         Templates
     }
