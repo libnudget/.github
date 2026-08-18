@@ -8,11 +8,33 @@
 
 # libnudget
 
-We build small tools that solve one problem well.
+Small, open-source tools for everyday development.
 
-Some run on your own machine. Others are GitHub Actions that quietly look after a repository. A few are still finding their shape.
+```mermaid
+classDiagram
+    direction TB
 
-The idea is simple: keep the tool small enough to read, useful enough to keep, and easy enough to replace.
+    class Palmshed {
+        Open-source AI tools
+        Agents
+        SDKs
+    }
+
+    class harpertoken {
+        Open-source software
+    }
+
+    class libnudget {
+        Small tools
+        Utilities
+        GitHub Actions
+        Libraries
+        Templates
+    }
+
+    Palmshed --> libnudget : company
+    harpertoken --> libnudget : alongside
+```
 
 ## The collection
 
@@ -45,11 +67,3 @@ The idea is simple: keep the tool small enough to read, useful enough to keep, a
 | [rust-fix](https://github.com/libnudget/rust-fix)             | [![rust-fix](https://img.shields.io/github/v/release/libnudget/rust-fix?label=latest)](https://github.com/libnudget/rust-fix/releases)                   | `uses: libnudget/rust-fix@v1`                                              |
 | [stale](https://github.com/libnudget/stale)                   | [![stale](https://img.shields.io/github/v/release/libnudget/stale?label=latest)](https://github.com/libnudget/stale/releases)                            | `uses: libnudget/stale@v1`                                                 |
 | [title](https://github.com/libnudget/title)                   | [![title](https://img.shields.io/github/v/release/libnudget/title?label=latest)](https://github.com/libnudget/title/releases)                            | `uses: libnudget/title@v1`                                                 |
-
-## Who we are
-
-libnudget is a company of [Palmshed](https://github.com/palmshed), alongside [harpertoken](https://github.com/harpertoken).
-
-We build small, focused software that is useful on its own and easy to understand.
-
-If something breaks or feels unclear, tell us. Good tools should be easy to use and easy to correct.
